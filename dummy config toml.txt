@@ -1,0 +1,7 @@
+[openai]
+api_key = "sk-xxx"
+model = "gpt-4o-mini"
+temperature = 0.7
+
+[agent]
+memory_file = "task_memory.json"
